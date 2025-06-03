@@ -15,6 +15,6 @@ Dataset Improvement Using Outlier Removal is a Python-based project aimed at enh
 
 ## 📊 Dataset Used
 - **Housing Dataset**
-•	The dataset contains features related to real estate or housing (though exact column names are not specified in the doc).
-•	It is stored in a file named housing.csv.
-•	This dataset is used to demonstrate the effect of outlier removal on regression model performance (evaluated via Mean Absolute Error).
+- The dataset contains features related to real estate or housing (though exact column names are not specified in the doc).
+-	It is stored in a file named housing.csv.
+-	This dataset is used to demonstrate the effect of outlier removal on regression model performance (evaluated via Mean Absolute Error).
